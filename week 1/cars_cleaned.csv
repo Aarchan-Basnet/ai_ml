@@ -1,0 +1,848 @@
+Brand,Price,Transmisson,Make Year,Mileage,Engine (CC),Fuel,Kilometer Run
+Hyundai,2487500.0,Manual-2WD,2015.0,14,1400,Petrol,42000.0
+Hyundai,750000.0,Auto-2WD,2005.0,11,1399,Petrol,87412.0
+Tata,700000.0,Manual-2WD,2013.0,,2956,Diesel,60000.0
+Mahindra,600000.0,Manual-4WD,2017.0,,,Diesel,
+Tata,1400000.0,Manual-2WD,2014.0,12,2956cc,Diesel,
+Tata,700000.0,Auto-2WD,2019.0,15,889,Petrol,80000.0
+Maruti Suzuki,580000.0,Manual-2WD,2004.0,,800,Petrol,75000.0
+Hyundai,1845000.0,Manual-2WD,2014.0,,1200,Petrol,31000.0
+Maruti Suzuki,2050000.0,Auto-4WD,2016.0,17/18 km,1200,Petrol,41000.0
+Maruti Suzuki,1025000.0,Manual-2WD,2008.0,20,,Petrol,43000.0
+Hyundai,1350000.0,Manual-4WD,2010.0,,1100,Petrol,4200.0
+Mahindra,1250000.0,Manual-2WD,2018.0,,,Diesel,
+Kia,3250000.0,Manual-4WD,2011.0,,,Diesel,
+Mahindra,1950000.0,Manual-4WD,2015.0,,2500,Diesel,65000.0
+Mahindra,3200000.0,Manual-2WD,2019.0,15,2100,Electric,61000.0
+Hyundai,2500000.0,Manual-2WD,2015.0,14+,1400,Diesel,42000.0
+Other Brands,5100000.0,Manual-4WD,2019.0,,2499,Diesel,51000.0
+Other Chinese Brands,5300000.0,Auto-2WD,2021.0,300,105,Electric,12200.0
+Kia,5800000.0,Auto-2WD,2019.0,,,Electric,9000.0
+Hyundai,1350000.0,Manual-2WD,2010.0,,,Petrol,
+Hyundai,2350000.0,Manual-2WD,2017.0,14,1197,Petrol,7000.0
+Hyundai,1850000.0,Manual-2WD,2014.0,14,1200,Petrol,45000.0
+Kia,1430000.0,Manual-2WD,2011.0,18,1399,Petrol,59000.0
+Hyundai,2600000.0,Manual-2WD,2019.0,13,1200,Petrol,18300.0
+Hyundai,3750000.0,Manual-2WD,2017.0,21.4,1582,Diesel,42000.0
+Tata,1780000.0,Manual-2WD,2017.0,,1193,Petrol,
+Hyundai,1360000.0,Manual-2WD,2010.0,15,1100,Petrol,53000.0
+Tata,950000.0,Auto-2WD,2013.0,10,1400,Petrol,
+Maruti Suzuki,2650000.0,Manual-2WD,2017.0,18/20,1200,Petrol,29000.0
+Toyota,7850000.0,Manual-4WD,2018.0,12,2.8,Diesel,42000.0
+Datsun,1275000.0,Manual-2WD,2016.0,16,1200,Petrol,48000.0
+Nissan,2400000.0,Manual-4WD,2010.0,10,2500,Diesel,75000.0
+Hyundai,1300000.0,Auto-2WD,2009.0,18/20,1086,Petrol,80000.0
+Ford,2950000.0,Manual-2WD,2017.0,17,1500,Petrol,26000.0
+Fiat,1550077.0,Manual-2WD,2016.0,,1368,Petrol,57000.0
+Hyundai,3525000.0,Manual-2WD,2021.0,18,1200,Petrol,13750.0
+Mahindra,3450000.0,Auto-4WD,2016.0,,,Diesel,750840.0
+Ford,550000.0,Manual-2WD,2003.0,15,1299,Petrol,52000.0
+Ford,1500000.0,Manual-2WD,2016.0,14,1200,Petrol,70000.0
+Hyundai,640000.0,Manual-2WD,2002.0,,1086,Petrol,
+Kia,3250000.0,Manual-4WD,2011.0,13,2000,Diesel,67000.0
+Nissan,550000.0,Auto-2WD,1997.0,,,Diesel,
+Nissan,3399000.0,Manual-2WD,2023.0,,999,Petrol,
+Chevrolet,575000.0,Manual-2WD,2007.0,12,,Petrol,
+Hyundai,2850000.0,Manual-2WD,2017.0,,,Petrol,38000.0
+Maruti Suzuki,1050000.0,Manual-2WD,2010.0,15,1086,Petrol,75000.0
+Hyundai,1050000.0,Manual-2WD,2007.0,14,1086,Petrol,71000.0
+Maruti Suzuki,749000.0,Manual-4WD,2006.0,16,1000,Petrol,74000.0
+Hyundai,4300000.0,Manual-2WD,2019.0,14,1600,Petrol,24000.0
+Maruti Suzuki,895000.0,Manual-2WD,2009.0,,,Petrol,
+Hyundai,1400000.0,Manual-2WD,2010.0,,1200,Petrol,39888.0
+Hyundai,550000.0,Manual-2WD,2006.0,17,1400,Petrol,
+Honda,2350000.0,Manual-2WD,2016.0,,1200,Petrol,34200.0
+Maruti Suzuki,475000.0,Auto-2WD,2002.0,18,1000,Petrol,70000.0
+Tata,1825000.0,Power-Steering,2017.0,,,Diesel,
+Other Brands,2100000.0,Manual-2WD,2016.0,10,3700,Diesel,30000.0
+Honda,2450000.0,Manual-2WD,2016.0,12,1200,Petrol,30000.0
+Tata,700000.0,Auto-2WD,2012.0,5,3783,Diesel,60000.0
+Nissan,1599999.0,Manual-2WD,2014.0,,250,Petrol,42500.0
+Nissan,4499999.0,Manual-4WD,2021.0,3800,,Petrol,3700.0
+Great Wall Motors,9700000.0,Auto-4WD,2021.0,,,Petrol,16777.0
+Ford,1550000.0,Manual-4WD,2016.0,,,Petrol,
+Volkswagen,1650000.0,Manual-2WD,2011.0,12,1600,Petrol,55708.0
+Kia,9750000.0,Auto-2WD,2010.0,18,1200,Petrol,57000.0
+Mahindra,2050000.0,Auto-2WD,2020.0,160,30KW BATTERY,Electric,6000.0
+Hyundai,1400000.0,Manual-2WD,2011.0,14,1084,Petrol,57560.0
+Hyundai,2299999.0,Manual-2WD,2015.0,,,Petrol,
+Honda,2099000.0,Manual-2WD,2014.0,,,Petrol,55000.0
+Honda,2099000.0,Manual-2WD,2014.0,16,,Petrol,55000.0
+Maruti Suzuki,1425000.0,Manual-2WD,2009.0,13,1300,Petrol,70000.0
+Tata,1400000.0,Manual-2WD,2014.0,18,1248,Diesel,60000.0
+Other Brands,1250000.0,Manual-2WD,2020.0,,,Diesel,
+Volkswagen,1480000.0,Manual-2WD,2012.0,,1200,Petrol,
+Maruti Suzuki,2000000.0,Auto-2WD,2017.0,16,1200,Petrol,35200.0
+Kia,5200000.0,Manual-2WD,2022.0,15 km/l,1500,Petrol,6700.0
+Other Brands,500000.0,Power-Steering,2005.0,,,Petrol,
+Tata,2100000.0,Manual-2WD,2017.0,,1948,Diesel,93726.0
+Maruti Suzuki,1950000.0,Auto-2WD,2013.0,13-15,1200,Petrol,47000.0
+Jeep,8000000.0,Manual-2WD,2021.0,17,1956,Diesel,9500.0
+Other Brands,375000.0,Manual-2WD,2000.0,10,1400,Petrol,71000.0
+Maruti Suzuki,920000.0,Auto-2WD,2009.0,,,Petrol,70000.0
+Nissan,3200000.0,Manual-4WD,2010.0,,2000,Diesel,70000.0
+Skoda,5500000.0,Manual-2WD,2021.0,15,1000,Petrol,24800.0
+Kia,5750000.0,Auto-2WD,2021.0,10 to 15,1500,Petrol,14500.0
+Hyundai,1175000.0,Manual-2WD,2013.0,15,800,Petrol,32000.0
+Maruti Suzuki,4125000.0,Manual-2WD,2021.0,16,1500,Petrol,12000.0
+Tata,3700000.0,Auto-2WD,2022.0,270,30,Electric,12000.0
+Toyota,16700000.0,Auto-4WD,2016.0,,2882,Diesel,46543.0
+Mitsubishi,7650000.0,Manual-4WD,2020.0,12,2400,Diesel,32000.0
+Hyundai,3300000.0,Manual-2WD,2017.0,15,1599,Petrol,70000.0
+Daihatsu,2775000.0,Manual-4WD,2008.0,,1500,Petrol,71000.0
+Maruti Suzuki,1400000.0,Power-Steering,2015.0,12,1200,Petrol,
+Maruti Suzuki,4000000.0,Manual-2WD,2020.0,15,1500,Petrol,34000.0
+Maruti Suzuki,3000000.0,Manual-2WD,2020.0,18,1200,Petrol,11000.0
+Other Chinese Brands,1005000.0,Manual-2WD,2009.0,12,1300,Petrol,0.0
+Tata,1500000.0,Manual-2WD,2021.0,,2900,Diesel,45000.0
+Maruti Suzuki,1225000.0,Auto-2WD,2010.0,15,1200,Petrol,62000.0
+Toyota,7000000.0,Manual-4WD,2010.0,10,2800,Diesel,52000.0
+Maruti Suzuki,1325000.0,Manual-2WD,2016.0,18,800,Petrol,42500.0
+Maruti Suzuki,2300000.0,Auto-2WD,2016.0,,1200,Petrol,25000.0
+Mahindra,2100000.0,Manual-4WD,2018.0,15,2523,Diesel,59000.0
+Hyundai,2750000.0,Manual-2WD,2016.0,,1200,Petrol,23000.0
+Hyundai,2525000.0,Manual-2WD,2019.0,15,1200,Petrol,17000.0
+Skoda,2325000.0,Manual-4WD,2010.0,12,1.8,Petrol,72000.0
+Mahindra,2350000.0,Power-Steering,2021.0,,2500,Diesel,
+Hyundai,1599000.0,Manual-2WD,2010.0,14,1197,Petrol,60500.0
+Maruti Suzuki,420000.0,Auto-2WD,2012.0,18,800,Petrol,
+Hyundai,1500000.0,Manual-2WD,2011.0,,1200,Petrol,45400.0
+Kia,5800000.0,Auto-2WD,2021.0,14,1600,Petrol,8000.0
+Maruti Suzuki,2075000.0,Manual-2WD,2021.0,,1200,Petrol,31000.0
+Mahindra,2975000.0,Manual-2WD,2016.0,16,2179,Diesel,62370.0
+Ssangyong,3990000.0,Auto-2WD,2019.0,,1600,Petrol,38000.0
+Tata,700000.0,Manual-4WD,2010.0,,3500,Diesel,
+Maruti Suzuki,2100000.0,Manual-2WD,2014.0,18,1200,Petrol,58000.0
+Tata,350000.0,Auto-2WD,2007.0,7,1948,Diesel,35000.0
+Maruti Suzuki,400000.0,Auto-2WD,2014.0,14,800,Petrol,5500.0
+Mahindra,950000.0,Manual-2WD,2010.0,,2500,Diesel,
+Other Brands,395900.0,Manual-2WD,2000.0,15,1600,Petrol,50000.0
+Mahindra,2350000.0,Manual-2WD,2014.0,15,2200,Diesel,97500.0
+Other Chinese Brands,1075900.0,Manual-2WD,2011.0,15,1600,Petrol,40000.0
+Fiat,1600000.0,Manual-2WD,2015.0,12km.ltr,1383,Petrol,25125.0
+Tata,500000.0,Manual-2WD,2007.0,,1500,Diesel,71000.0
+Chevrolet,900000.0,Manual-2WD,2012.0,18 kmpl,995,Petrol,30000.0
+Mahindra,1720000.0,Manual-2WD,2007.0,,2400,Diesel,100000.0
+Hyundai,1500000.0,Auto-2WD,2010.0,,1198,Petrol,43000.0
+Hyundai,1050000.0,Power-Steering,2006.0,,1086,Petrol,
+Toyota,1800000.0,Manual-2WD,1975.0,12,1200,Petrol,95000.0
+Maruti Suzuki,2265000.0,Power-Steering,2018.0,16,1200,Petrol,43000.0
+Hyundai,2600000.0,Manual-2WD,2016.0,,1200,Petrol,34000.0
+Kia,1450000.0,Manual-4WD,2005.0,11,2000,Diesel,95000.0
+Ford,1900000.0,Manual-2WD,2013.0,,1000,Petrol,
+Toyota,2350000.0,Manual-2WD,2009.0,12,1600,Petrol,55000.0
+Skoda,1600000.0,Manual-2WD,2015.0,12,1600,Petrol,65000.0
+Hyundai,800000.0,Manual-2WD,2003.0,,1086,Petrol,90000.0
+Hyundai,570000.0,Manual-2WD,2002.0,14,1086,Petrol,89.0
+Hyundai,470000.0,Manual-2WD,2001.0,14,1000,Petrol,95.0
+Kia,3080000.0,Manual-2WD,2021.0,12,1200,Petrol,10000.0
+Tata,3850000.0,Auto-2WD,2022.0,,,Electric,
+Hyundai,1290000.0,Manual-2WD,2008.0,12,1200,Petrol,67000.0
+Maruti Suzuki,1125000.0,Auto-2WD,2010.0,20-21,1000,Petrol,72000.0
+Hyundai,950000.0,Manual-2WD,2005.0,,1086,Petrol,
+Hyundai,1490000.0,Manual-2WD,2013.0,,1086,Petrol,40000.0
+Maruti Suzuki,2075000.0,Manual-2WD,2016.0,,1197,Petrol,39000.0
+Maruti Suzuki,1075000.0,Manual-2WD,2010.0,,996,Petrol,61477.0
+Maruti Suzuki,1300000.0,Manual-2WD,2010.0,,,Petrol,
+Maruti Suzuki,500000.0,Manual-4WD,2015.0,15,800,Petrol,40000.0
+Maruti Suzuki,2250000.0,Manual-2WD,2015.0,,1200,Petrol,46000.0
+Tata,1100000.0,Manual-4WD,2018.0,16,1405,Diesel,95000.0
+Hyundai,1525000.0,Manual-2WD,2010.0,,1198,Petrol,
+Nissan,4034000.0,Manual-2WD,2023.0,,999,Petrol,
+Maruti Suzuki,2075000.0,Manual-2WD,2016.0,16,1200,Petrol,47000.0
+Hyundai,650000.0,Power-Steering,2001.0,15,1000,Petrol,80000.0
+Hyundai,2550000.0,Manual-4WD,2019.0,,1196,Petrol,17000.0
+Other Brands,500000.0,Manual-2WD,2001.0,,2800,Petrol,90000.0
+Volkswagen,2050000.0,Manual-2WD,2015.0,,1600,Petrol,35000.0
+Fiat,1550000.0,Manual-2WD,2015.0,13,1400,Petrol,35000.0
+Hyundai,4575000.0,Manual-2WD,2019.0,,1500,Petrol,38000.0
+Ford,2250000.0,Manual-2WD,2016.0,,15000,Petrol,50000.0
+Hyundai,2865000.0,Manual-2WD,2017.0,,1197,Petrol,35000.0
+Hyundai,2900000.0,Manual-2WD,2017.0,,1200,Petrol,38000.0
+Chevrolet,1250000.0,Manual-2WD,2012.0,,1400,Petrol,38000.0
+Hyundai,2300000.0,Manual-2WD,2018.0,14,1200,Petrol,27000.0
+Volkswagen,3150000.0,Manual-2WD,2010.0,,2000,Petrol,75000.0
+Maruti Suzuki,3975000.0,Manual-2WD,2021.0,,1300,Petrol,30000.0
+Hyundai,1265000.0,Manual-2WD,2009.0,,1197,Petrol,61000.0
+Tata,395000.0,Manual-2WD,2003.0,,1400,Diesel,75000.0
+Tata,390000.0,Manual-2WD,2000.0,13,1400,Petrol,90000.0
+Mahindra,1550000.0,Manual-4WD,2016.0,13,2523,Diesel,45000.0
+Ford,2425000.0,Manual-2WD,2016.0,13,1500,Petrol,38000.0
+Hyundai,2275000.0,Manual-2WD,2015.0,14,1200,Petrol,40000.0
+Nissan,1525000.0,Manual-2WD,2014.0,14,1197,Petrol,38000.0
+Maruti Suzuki,1399000.0,Manual-2WD,2009.0,14,1300,Petrol,52000.0
+Daihatsu,875000.0,Manual-2WD,2007.0,14,1000,Petrol,61000.0
+Hyundai,2150000.0,Manual-4WD,2007.0,13,2000,Diesel,78000.0
+Maruti Suzuki,540000.0,Manual-2WD,2014.0,14,800,Petrol,610000.0
+Toyota,1400000.0,Auto-2WD,2007.0,14,1400,Petrol,100000.0
+Maruti Suzuki,2190000.0,Manual-2WD,2017.0,14,1197,Petrol,38000.0
+Maruti Suzuki,1375000.0,Manual-2WD,2014.0,16,1000,Petrol,28000.0
+Hyundai,2125000.0,Manual-2WD,2014.0,,1197,Petrol,48000.0
+Ford,1150000.0,Manual-2WD,2014.0,16,1400,Diesel,70.0
+Toyota,9700000.0,Manual-4WD,2015.0,,3000,Diesel,
+Honda,1350000.0,Manual-2WD,2012.0,14,1200,Petrol,59000.0
+Mazda,1625000.0,Manual-2WD,2010.0,,1500,Petrol,61000.0
+Maruti Suzuki,1950000.0,Manual-4WD,2007.0,,,Petrol,
+Volkswagen,1725000.0,Manual-2WD,2013.0,,,Petrol,62000.0
+Mahindra,1375000.0,Auto-2WD,2016.0,,,Electric,
+Maruti Suzuki,1675000.0,Manual-2WD,2012.0,,1200,Petrol,52000.0
+Tata,1999999.0,Manual-2WD,2017.0,17,1200,Petrol,50000.0
+Maruti Suzuki,750000.0,Manual-2WD,2008.0,,800,Petrol,
+Tata,795000.0,Manual-2WD,2010.0,18,1405,Diesel,64000.0
+Hyundai,3650000.0,Manual-2WD,2021.0,,1200,Petrol,21000.0
+Kia,4275000.0,Manual-2WD,2020.0,16,1500,Petrol,28500.0
+Nissan,2450000.0,Manual-2WD,2021.0,15,1000,Petrol,5600.0
+Maruti Suzuki,1900000.0,Auto-2WD,2013.0,18,1200,Petrol,45000.0
+Hyundai,3950000.0,Manual-2WD,2019.0,,1600,Petrol,20000.0
+Maruti Suzuki,1850000.0,Auto-2WD,2014.0,12,1000,Petrol,40000.0
+Tata,3400000.0,Auto-2WD,2018.0,18,1500,Diesel,40000.0
+Hyundai,1100000.0,Manual-4WD,2007.0,,1000,Petrol,60000.0
+Hyundai,2850000.0,Manual-2WD,2017.0,,1200,Petrol,50000.0
+Tata,1175000.0,Manual-4WD,2010.0,,2169,Diesel,70000.0
+Mahindra,3150000.0,Manual-2WD,2016.0,12,2200,Diesel,50000.0
+Ford,2299000.0,Manual-2WD,2015.0,15,1499,Diesel,50000.0
+Maruti Suzuki,1500000.0,Manual-2WD,2015.0,,1100,Petrol,
+Volkswagen,6200000.0,Auto-2WD,2021.0,,,Petrol,17000.0
+Volkswagen,6200000.0,Auto-4WD,2010.0,,2967,Diesel,98000.0
+Hyundai,5500000.0,Manual-2WD,2019.0,,1591,Petrol,30000.0
+Renault,2400000.0,Manual-2WD,2016.0,12,1596,Petrol,36000.0
+Other Chinese Brands,1050000.0,Manual-2WD,2010.0,10,1596,Petrol,65000.0
+Hyundai,650000.0,Power-Steering,2003.0,15,1000,Petrol,
+Hyundai,1375000.0,Manual-2WD,2010.0,,1400,Diesel,47000.0
+Maruti Suzuki,1185000.0,Manual-2WD,2009.0,15,1300,Petrol,45000.0
+Tata,630000.0,Auto-2WD,2017.0,15,702,Diesel,5900.0
+Maruti Suzuki,1475000.0,Manual-2WD,2017.0,,1196,Petrol,38300.0
+Maruti Suzuki,4050000.0,Manual-2WD,2021.0,20,1500,Petrol,17000.0
+Kia,5700000.0,Manual-4WD,2016.0,,2500,Diesel,36200.0
+Maruti Suzuki,1475000.0,Manual-2WD,2017.0,,1196,Petrol,38300.0
+Mahindra,3300000.0,Power-Steering,2016.0,,2000,Petrol,56000.0
+Hyundai,6500000.0,Auto-2WD,2020.0,550,,Electric,20000.0
+Maruti Suzuki,1350000.0,Manual-2WD,2009.0,13-Dec,1298,Petrol,64000.0
+Hyundai,2350000.0,Manual-4WD,2009.0,12,2000,Diesel,73000.0
+Hyundai,1700000.0,Manual-2WD,2013.0,14,1200,Petrol,62000.0
+Tata,1400000.0,Manual-4WD,2015.0,,2200,Diesel,130000.0
+Hyundai,4800000.0,Manual-2WD,2022.0,,,Diesel,
+Toyota,7600000.0,Auto-4WD,2017.0,15,2700,Petrol,65000.0
+Maruti Suzuki,3100000.0,Manual-2WD,2017.0,18,1248,Diesel,56000.0
+Tata,975000.0,Manual-2WD,2008.0,,1948,Diesel,56000.0
+Hyundai,1350000.0,Manual-2WD,2009.0,,1197,Petrol,
+Eicher,3700000.0,Power-Steering,2021.0,,4898,Diesel,3700.0
+Maruti Suzuki,699000.0,Auto-2WD,2007.0,,800,Petrol,
+Tata,500000.0,Auto-2WD,2007.0,,1500,Petrol,20.0
+Maruti Suzuki,1400000.0,Power-Steering,2010.0,15,1300,Petrol,61000.0
+Other Chinese Brands,1500000.0,Manual-2WD,2010.0,,1600,Petrol,86000.0
+Other Brands,1250000.0,Manual-2WD,2015.0,,800,Petrol,40352.0
+Maruti Suzuki,525000.0,Manual-2WD,2012.0,10,800,Petrol,8200.0
+Tata,1500000.0,Manual-2WD,2016.0,14,2900,Diesel,80000.0
+Mahindra,1750000.0,Manual-4WD,2018.0,12,2523,Diesel,60000.0
+Mahindra,1350000.0,Auto-4WD,2014.0,,,Diesel,
+Maruti Suzuki,2275000.0,Manual-2WD,2021.0,,1000,Petrol,15000.0
+Hyundai,1325000.0,Auto-2WD,2009.0,,1200,Petrol,70000.0
+Maruti Suzuki,2149999.0,Manual-2WD,2015.0,16,1200,Petrol,41100.0
+Mahindra,1450000.0,Manual-2WD,2017.0,,2500,Petrol,53000.0
+Maruti Suzuki,1100000.0,Power-Steering,2011.0,17,1000,Petrol,58000.0
+Honda,1100000.0,Manual-2WD,2007.0,,1500,Petrol,75000.0
+Nissan,11500000.0,Auto-4WD,2014.0,,3000,Diesel,
+Hyundai,2500000.0,Manual-2WD,2016.0,15,1200,Petrol,81000.0
+Daihatsu,4300000.0,Manual-4WD,2014.0,,1500,Petrol,59000.0
+Hyundai,1150000.0,Manual-2WD,2007.0,13,1096,Petrol,57000.0
+Maruti Suzuki,515000.0,Auto-2WD,2007.0,19,796,Petrol,
+Maruti Suzuki,365000.0,Auto-2WD,2002.0,18,796,Petrol,56000.0
+Maruti Suzuki,350000.0,Auto-2WD,2010.0,10,800,Petrol,80000.0
+Other Brands,2500000.0,Manual-2WD,2010.0,,,Petrol,
+Maruti Suzuki,1385000.0,Manual-2WD,2009.0,14,1300,Petrol,76500.0
+Tata,950000.0,Manual-2WD,2020.0,,700,Diesel,28250.0
+Other Brands,5100000.0,Auto-2WD,2021.0,,,Electric,
+Maruti Suzuki,1700000.0,Manual-4WD,1998.0,18,1200,Petrol,98000.0
+Hyundai,2225000.0,Manual-2WD,2021.0,,1086,Petrol,15000.0
+Hyundai,1800000.0,Auto-2WD,2010.0,,1400,Petrol,76342.0
+Hyundai,2225000.0,Manual-2WD,2021.0,,1100,Petrol,15000.0
+Hyundai,1600000.0,Manual-2WD,2014.0,14,1186,Petrol,35000.0
+Eicher,650000.0,Auto-4WD,2015.0,,,Diesel,
+Nissan,1250000.0,Manual-2WD,2006.0,13,1596,Petrol,69000.0
+Maruti Suzuki,2260000.0,Manual-2WD,2016.0,,1200,Petrol,42000.0
+Mahindra,950000.0,Manual-4WD,2011.0,12,2523,Diesel,77000.0
+Maruti Suzuki,2100000.0,Manual-2WD,2015.0,14,1197,Petrol,47000.0
+Hyundai,1575000.0,Manual-2WD,2010.0,13,1197,Petrol,58000.0
+Daihatsu,575000.0,Manual-2WD,1997.0,12,850,Petrol,98521.0
+Mahindra,1050000.0,Manual-2WD,2014.0,10,2900,Diesel,790000.0
+Ford,3550000.0,Manual-2WD,2018.0,,1500,Petrol,
+Tata,2400000.0,Manual-2WD,2017.0,15,1200,Petrol,29000.0
+Hyundai,1075000.0,Manual-2WD,2013.0,22,814,Petrol,45000.0
+Mahindra,2650000.0,Auto-2WD,2015.0,15,2179,Diesel,155000.0
+Ford,1200000.0,Manual-2WD,2013.0,15,1200,Petrol,56000.0
+Maruti Suzuki,1800000.0,Auto-2WD,2014.0,,1000,Petrol,
+Hyundai,1300000.0,Manual-2WD,2010.0,12,1100,Petrol,75000.0
+Toyota,875000.0,Auto-4WD,1997.0,,2800,Diesel,
+Hyundai,1025000.0,Manual-2WD,2006.0,18,1100,Petrol,100000.0
+Maruti Suzuki,1100000.0,Manual-2WD,2017.0,,1300,Petrol,72256.0
+Mahindra,1700000.0,Auto-4WD,2015.0,,,Diesel,
+Mahindra,895000.0,Auto-2WD,2014.0,12,5223,Diesel,9800.0
+Hyundai,1275000.0,Manual-2WD,2008.0,14,1200,Petrol,62000.0
+Tata,3600000.0,Auto-2WD,2021.0,270+ in one full charge,100kw,Electric,25000.0
+Maruti Suzuki,2550000.0,Auto-2WD,2018.0,15,800,Petrol,
+Hyundai,1035000.0,Manual-2WD,2006.0,15,1086,Petrol,68500.0
+Ford,2300000.0,Auto-2WD,2018.0,16-17,1200,Petrol,47000.0
+Hyundai,1485000.0,Manual-2WD,2010.0,14,1200,Petrol,46374.0
+Kia,2000000.0,Auto-4WD,2006.0,12 to 14,2000,Diesel,54000.0
+Hyundai,2050000.0,Auto-4WD,2009.0,16,1991,Diesel,85000.0
+Hyundai,2700000.0,Manual-2WD,2010.0,10,2000,Petrol,50000.0
+Kia,5500000.0,Auto-2WD,2019.0,,,Electric,46000.0
+Other Brands,2300000.0,Manual-4WD,2016.0,18,2500,Diesel,60965.0
+Other Brands,4499999.0,Manual-4WD,2017.0,,2499,Diesel,56000.0
+Ford,1770000.0,Manual-2WD,2015.0,,1500,Petrol,75000.0
+Toyota,24000000.0,Auto-4WD,2017.0,,3000,Diesel,78564.0
+Maruti Suzuki,400000.0,Auto-2WD,2003.0,14,796,Petrol,70000.0
+Toyota,2050000.0,Manual-2WD,2009.0,18,,Petrol,77000.0
+Ford,985000.0,Manual-2WD,2012.0,12,1200,Petrol,52000.0
+Ford,1800000.0,Manual-2WD,2016.0,,,Petrol,50000.0
+Maruti Suzuki,2490000.0,Manual-2WD,2016.0,18,1300,Petrol,47000.0
+Maruti Suzuki,699000.0,Manual-2WD,2004.0,69000,800,Petrol,69000.0
+Maruti Suzuki,1375000.0,Manual-2WD,2009.0,13-Dec,1298,Petrol,
+Hyundai,775000.0,Manual-2WD,2003.0,,1100,Petrol,80000.0
+Ford,2150000.0,Auto-2WD,2015.0,14,1500,Petrol,42000.0
+Hyundai,1400000.0,Auto-2WD,2012.0,,,Petrol,
+Hyundai,2400000.0,Manual-2WD,2016.0,,1200,Petrol,30000.0
+Mahindra,1500000.0,Auto-4WD,2020.0,50,1200,Diesel,
+Tata,1050000.0,Auto-2WD,2021.0,18,800,Diesel,30000.0
+Hyundai,1750000.0,Manual-2WD,2014.0,,,Petrol,
+Hyundai,1450000.0,Manual-2WD,2010.0,12,1200,Petrol,53000.0
+Other Brands,4500000.0,Manual-4WD,2020.0,11,2500,Diesel,55000.0
+Chevrolet,575000.0,Manual-2WD,2012.0,,1000,Petrol,25000.0
+Tata,900000.0,Manual-2WD,2017.0,10,2900,Diesel,1700000.0
+Kia,600000.0,Auto-2WD,2004.0,Good,1300,Petrol,45000.0
+Ssangyong,11000000.0,Auto-4WD,2017.0,,2157,Diesel,35000.0
+Nissan,1450000.0,Manual-2WD,2017.0,12,1200,Petrol,40000.0
+Ford,3450000.0,Manual-2WD,2021.0,16-18,1497,Petrol,30000.0
+Ford,1600000.0,Manual-4WD,2017.0,,1656,Diesel,70000.0
+Maruti Suzuki,2150000.0,Auto-4WD,2018.0,20,998,Petrol,38000.0
+Toyota,7000000.0,Manual-4WD,2008.0,"6, 7",3000,Diesel,110000.0
+Kia,2450000.0,Auto-4WD,2010.0,10,1998,Petrol,56000.0
+Tata,1600000.0,Manual-4WD,2016.0,,2523,Diesel,
+Honda,1775000.0,Manual-2WD,2014.0,,1200,Petrol,57000.0
+Nissan,425000.0,Manual-2WD,1998.0,,2000,Diesel,
+Maruti Suzuki,1250000.0,Manual-2WD,2014.0,17,800,Petrol,23000.0
+Maruti Suzuki,2000000.0,Manual-2WD,2016.0,,1200,Petrol,49000.0
+Toyota,3400000.0,Manual-4WD,1998.0,10,2800,Diesel,146000.0
+Hyundai,2950000.0,Manual-2WD,2015.0,,1600,Petrol,
+Tata,850000.0,Auto-2WD,2006.0,12,2950,Diesel,1500.0
+Other Brands,1500000.0,Manual-2WD,2018.0,,2999,Diesel,35000.0
+Tata,1300000.0,Manual-2WD,2014.0,,1248,Diesel,50000.0
+Maruti Suzuki,3474000.0,Manual-2WD,2022.0,17,1197,Petrol,315.0
+Hyundai,1125000.0,Auto-2WD,2008.0,14/15,1086,Petrol,76009.0
+Datsun,1500000.0,Power-Steering,2017.0,,1200,Petrol,14000.0
+Other Brands,4500000.0,Auto-2WD,2003.0,,2000,Petrol,62000.0
+Nissan,1250000.0,Manual-2WD,2007.0,,1500,Petrol,90000.0
+Ford,8300000.0,Auto-4WD,2016.0,,3200,Diesel,73000.0
+Tata,2900000.0,Manual-2WD,2021.0,16,1200,Petrol,13000.0
+Hyundai,3100000.0,Manual-2WD,2020.0,20,1200,Petrol,6700.0
+Toyota,1950000.0,Manual-2WD,2008.0,11,1600,Petrol,71000.0
+Hyundai,2100000.0,Manual-4WD,2009.0,12,2000,Diesel,90000.0
+Kia,1400000.0,Manual-2WD,2011.0,,2600,Diesel,114000.0
+Maruti Suzuki,860000.0,Manual-2WD,2009.0,17,800,Petrol,67.0
+Hyundai,1850000.0,Power-Steering,2015.0,,1100,Petrol,19800.0
+Hyundai,1165000.0,Manual-2WD,2010.0,50000,1075,Petrol,50000.0
+Hyundai,950000.0,Manual-2WD,2007.0,18,1047,Petrol,67000.0
+Volkswagen,2200000.0,Manual-2WD,2014.0,15-Dec,1600,Petrol,47000.0
+Maruti Suzuki,685000.0,Auto-2WD,2019.0,12,800,Petrol,
+Chevrolet,725000.0,Manual-2WD,2009.0,,995,Petrol,63000.0
+Hyundai,6650000.0,Auto-2WD,2021.0,13-18,1499,Petrol,17000.0
+Volkswagen,2000000.0,Power-Steering,2014.0,,1600,Petrol,21000.0
+Maruti Suzuki,2250000.0,Manual-2WD,2016.0,,1200,Petrol,59000.0
+Maruti Suzuki,1250000.0,Manual-2WD,2015.0,18,800,Petrol,40000.0
+Maruti Suzuki,635000.0,Manual-2WD,2018.0,,,Petrol,
+Other Chinese Brands,1000000.0,Manual-2WD,2008.0,,1300,Petrol,20000.0
+Chevrolet,1050000.0,Manual-4WD,2008.0,11,1600,Petrol,68000.0
+Volkswagen,1675000.0,Manual-2WD,2013.0,,1600,Petrol,
+Other Brands,5500000.0,Auto-2WD,2021.0,Per full charge 400 km,110 kw,Electric,20000.0
+Ford,1975000.0,Manual-2WD,2013.0,15,1500,Petrol,31000.0
+Mitsubishi,2250000.0,Manual-4WD,2007.0,,2495,Diesel,
+Hyundai,2300000.0,Manual-4WD,2009.0,,1997,Diesel,67000.0
+Mahindra,3900000.0,Manual-4WD,2017.0,14,2179,Diesel,70.0
+Hyundai,3000000.0,Manual-2WD,2011.0,,1600,Petrol,65000.0
+Kia,875000.0,Manual-2WD,2007.0,11,1400,Petrol,68000.0
+Maruti Suzuki,1300000.0,Manual-2WD,2010.0,13,1200,Petrol,68000.0
+Maruti Suzuki,1650000.0,Manual-2WD,2016.0,14,1000,Petrol,37000.0
+Maruti Suzuki,2850000.0,Manual-2WD,2021.0,14,1200,Petrol,22000.0
+Maruti Suzuki,5299000.0,Manual-2WD,2023.0,19,1462,Hybrid,
+Ford,2450000.0,Auto-2WD,2014.0,14,,Petrol,44000.0
+Hyundai,2150000.0,Auto-4WD,2008.0,12-Oct,2000,Diesel,65000.0
+Maruti Suzuki,2625000.0,Manual-2WD,2018.0,,1200,Petrol,33598.0
+Volkswagen,2350000.0,Manual-2WD,2016.0,10,1699,Petrol,47000.0
+Volkswagen,1400000.0,Manual-2WD,2012.0,,,Petrol,
+Maruti Suzuki,1100000.0,Manual-2WD,2010.0,15,1061,Petrol,49565.0
+Maruti Suzuki,1250000.0,Manual-2WD,2019.0,,1196,Petrol,
+Hyundai,3200000.0,Power-Steering,2016.0,,1499,Petrol,21500.0
+Mahindra,3100000.0,Manual-2WD,2016.0,,2200,Diesel,
+Hyundai,2090000.0,Manual-2WD,2014.0,,1197,Petrol,42000.0
+Hyundai,1600000.0,Manual-2WD,2013.0,13,1200,Petrol,62000.0
+Hyundai,2499000.0,Manual-2WD,2016.0,,1200,Petrol,
+Kia,3230000.0,Manual-2WD,2021.0,,,Petrol,8500.0
+Kia,1175000.0,Manual-2WD,2010.0,,1086,Petrol,50000.0
+Hyundai,2050000.0,Manual-2WD,2015.0,,1197,Petrol,39000.0
+Nissan,4100000.0,Manual-2WD,2021.0,,1600,Petrol,32000.0
+Kia,795000.0,Manual-2WD,2005.0,,1000,Petrol,65000.0
+Maruti Suzuki,3500000.0,Manual-2WD,2019.0,,,Petrol,17000.0
+Hyundai,2950000.0,Manual-2WD,2021.0,13,1200,Petrol,6000.0
+Kia,2050000.0,Manual-4WD,2008.0,,2500,Diesel,65000.0
+Maruti Suzuki,690000.0,Auto-2WD,2012.0,,800,Petrol,65000.0
+Mahindra,1300000.0,Manual-2WD,2013.0,18,1600,Diesel,81000.0
+Datsun,1150000.0,Manual-2WD,2016.0,22 km/l,800,Petrol,17000.0
+Maruti Suzuki,5299000.0,Manual-2WD,2023.0,19,1462,Hybrid,314.0
+Nissan,2700000.0,Auto-2WD,2021.0,17.5,1000,Petrol,16000.0
+Volkswagen,2600000.0,Manual-2WD,2016.0,,1600,Petrol,23000.0
+Ford,5500000.0,Manual-4WD,2017.0,11,3200,Diesel,61000.0
+Hyundai,3775000.0,Manual-2WD,2018.0,14-Dec,1500,Petrol,35000.0
+Maruti Suzuki,1450000.0,Auto-2WD,2016.0,19,998,Petrol,45000.0
+Tata,2500000.0,Manual-2WD,2015.0,,1200,Petrol,
+Fiat,1100000.0,Manual-2WD,2013.0,18,1248,Diesel,69500.0
+Hyundai,1580000.0,Manual-2WD,2011.0,16,1197,Petrol,52000.0
+Maruti Suzuki,850000.0,Auto-2WD,2016.0,16,800,Petrol,34000.0
+Mahindra,750000.0,Auto-2WD,2018.0,13,1000,Diesel,75000.0
+Hyundai,1445000.0,Manual-2WD,2011.0,18,1200,Petrol,51700.0
+Toyota,2500000.0,Power-Steering,2011.0,70k,,Petrol,70000.0
+Maruti Suzuki,1850000.0,Manual-2WD,2014.0,15 KMPL,1197,Petrol,
+Hyundai,6500000.0,Auto-2WD,2021.0,15,1500,Petrol,6000.0
+Skoda,1525000.0,Manual-2WD,2011.0,10,1896,Diesel,70000.0
+Hyundai,1500000.0,Auto-2WD,2011.0,N/a,1086,Petrol,
+Other Brands,5400000.0,Auto-2WD,2021.0,,,Electric,
+Hyundai,1700000.0,Auto-2WD,2012.0,,1197,Petrol,48000.0
+Hyundai,2475000.0,Manual-2WD,2018.0,16,1200,Petrol,36500.0
+Ford,2200000.0,Manual-2WD,2015.0,,,Petrol,
+Hyundai,2000000.0,Manual-4WD,2009.0,,,Diesel,
+Maruti Suzuki,920000.0,Auto-2WD,2018.0,13,796,Petrol,35000.0
+Toyota,1700000.0,Power-Steering,2014.0,,1500,Petrol,52000.0
+Maruti Suzuki,1025000.0,Manual-2WD,2010.0,,996,Petrol,51000.0
+Maruti Suzuki,4200000.0,Power-Steering,2021.0,,1500,Petrol,16000.0
+Toyota,1599000.0,Manual-2WD,2007.0,15,1496,Petrol,
+Maruti Suzuki,1700000.0,Manual-2WD,2013.0,,1200,Petrol,
+Mahindra,1750000.0,Manual-2WD,2016.0,16,1000,Petrol,44532.0
+Datsun,1100000.0,Auto-2WD,2014.0,16,,Petrol,65000.0
+Maruti Suzuki,2050000.0,Manual-2WD,2017.0,,,Petrol,45000.0
+Kia,950000.0,Power-Steering,2006.0,12,1086,Diesel,72000.0
+Maruti Suzuki,520000.0,Manual-2WD,2001.0,16,1061,Petrol,75.0
+Volkswagen,1775000.0,Manual-2WD,2013.0,14,1600,Petrol,53500.0
+Mahindra,3400000.0,Manual-2WD,2017.0,,2200,Diesel,
+Kia,3125000.0,Manual-2WD,2021.0,,1200,Petrol,42000.0
+Mahindra,1200000.0,Auto-2WD,2016.0,,,Diesel,100000.0
+Ford,1575000.0,Manual-2WD,2015.0,13,1196,Petrol,485780.0
+Hyundai,5150000.0,Manual-2WD,2019.0,,,Petrol,
+Ford,2450000.0,Manual-2WD,2020.0,,,Petrol,
+Hyundai,1150000.0,Manual-2WD,2010.0,,,Petrol,
+Maruti Suzuki,335000.0,Manual-2WD,2000.0,,,Petrol,
+Volkswagen,5240000.0,Auto-2WD,2021.0,,,Petrol,
+Tata,1999000.0,Manual-2WD,2017.0,20,1199,Petrol,
+Other Brands,5200000.0,Manual-4WD,2017.0,,2499,Diesel,60000.0
+Hyundai,2725000.0,Manual-2WD,2017.0,14,1200,Petrol,30000.0
+Hyundai,2050000.0,Manual-2WD,2014.0,,1196,Petrol,54383.0
+Maruti Suzuki,1455000.0,Manual-2WD,2015.0,,1000,Petrol,52000.0
+Maruti Suzuki,1170000.0,Auto-2WD,2009.0,15,1200,Petrol,85000.0
+Tata,2799000.0,Manual-2WD,2018.0,,3700,Diesel,90000.0
+Mahindra,1800000.0,Auto-4WD,2018.0,,,Diesel,90000.0
+Kia,550000.0,Auto-2WD,2004.0,10 to 12,1200,Petrol,320000.0
+Mahindra,2100000.0,Manual-4WD,2015.0,15,2200,Diesel,64000.0
+Mahindra,3850000.0,Manual-4WD,2017.0,15,2200,Diesel,5600.0
+Hyundai,3285000.0,Manual-2WD,2017.0,10,1600,Petrol,49000.0
+Maruti Suzuki,1675900.0,Manual-2WD,2012.0,18,1197,Petrol,55000.0
+Volkswagen,1500000.0,Manual-2WD,2011.0,12-Oct,1600,Petrol,55000.0
+Honda,1290000.0,Manual-4WD,2007.0,13,1350,Petrol,75000.0
+Other Brands,575000.0,Manual-2WD,2003.0,,1498,Petrol,19000.0
+Kia,1050000.0,Manual-2WD,2009.0,,1100,Petrol,83000.0
+Hyundai,4100000.0,Manual-2WD,2017.0,12,1500,Petrol,41000.0
+Ford,1250000.0,Auto-2WD,2015.0,15,1200,Petrol,50000.0
+Renault,2500000.0,Manual-2WD,2018.0,,1500,Petrol,50000.0
+Tata,950000.0,Auto-2WD,2021.0,20,600,Diesel,123.0
+Kia,900000.0,Manual-2WD,2008.0,14,1100,Petrol,53000.0
+Ford,1250000.0,Manual-2WD,2013.0,,1200,Petrol,43000.0
+Hyundai,2575000.0,Manual-2WD,2019.0,,1197,Petrol,20000.0
+Mahindra,3850000.0,Manual-4WD,2016.0,,2200,Diesel,53000.0
+Maruti Suzuki,1500000.0,Auto-2WD,2020.0,,,Petrol,
+Hyundai,2550000.0,Manual-2WD,2019.0,16,1196,Petrol,17000.0
+Other Brands,4500000.0,Manual-4WD,2017.0,,,Diesel,
+Tata,700000.0,Manual-2WD,2010.0,15-Dec,1300,Petrol,84000.0
+Other Brands,1050000.0,Auto-2WD,2013.0,10,3200,Diesel,60000.0
+Tata,650000.0,Power-Steering,2015.0,12,1400,Diesel,150.0
+Mazda,1275000.0,Manual-2WD,2005.0,14,1600,Petrol,36000.0
+Toyota,500000.0,Manual-4WD,1975.0,,1200,Petrol,50000.0
+Maruti Suzuki,1950000.0,Manual-4WD,2006.0,,2000,Petrol,75000.0
+Maruti Suzuki,700000.0,Auto-4WD,2018.0,15,796,Petrol,63000.0
+Maruti Suzuki,899999.0,Manual-2WD,2005.0,,1200,Petrol,70000.0
+Hyundai,4850000.0,Manual-2WD,2019.0,14,1598,Petrol,41000.0
+Maruti Suzuki,2250000.0,Manual-2WD,2017.0,15,1200,Petrol,35680.0
+Mazda,950000.0,Manual-2WD,2004.0,10,1600,Petrol,61000.0
+Maruti Suzuki,200000.0,Manual-2WD,1999.0,16,800,Petrol,20000.0
+Maruti Suzuki,3975000.0,Manual-2WD,2021.0,15,1500,Petrol,18500.0
+Honda,2475000.0,Manual-2WD,2016.0,12,1200,Petrol,37000.0
+Hyundai,1250000.0,Manual-2WD,2009.0,13 plus,1096,Petrol,78000.0
+Mahindra,1200000.0,Manual-2WD,2016.0,,2523,Diesel,127130.0
+Tata,500000.0,Auto-2WD,2007.0,18,1400,Diesel,53000.0
+Toyota,3500000.0,Manual-4WD,2010.0,15,2500 cc,Diesel,100000.0
+Volkswagen,1490000.0,Auto-4WD,2011.0,14,1600,Petrol,38000.0
+Hyundai,1600000.0,Manual-2WD,2012.0,14-15,1100,Petrol,33000.0
+Hyundai,2650000.0,Manual-2WD,2016.0,,1200,Petrol,40000.0
+Hyundai,2950000.0,Auto-2WD,2015.0,12,1200,Petrol,53000.0
+Kia,5700000.0,Manual-4WD,2016.0,,,Diesel,
+Datsun,1750000.0,Manual-2WD,2021.0,,1000,Petrol,5000.0
+Hyundai,1200000.0,Auto-2WD,2005.0,12,1000,Petrol,42000.0
+Maruti Suzuki,280000.0,Manual-2WD,2019.0,17,800,Petrol,125000.0
+Mahindra,2575000.0,Manual-4WD,2017.0,12,2200,Diesel,88000.0
+Toyota,1750000.0,Manual-2WD,,,,Petrol,
+Kia,880000.0,Power-Steering,2008.0,,1086,Petrol,70000.0
+Hyundai,1875000.0,Manual-4WD,2008.0,17,2000,Diesel,66000.0
+Hyundai,1850000.0,Manual-4WD,2007.0,15,2000,Diesel,560000.0
+Maruti Suzuki,1875000.0,Manual-2WD,2015.0,16,1200,Petrol,48000.0
+Honda,2099000.0,Manual-2WD,2014.0,12,1500,Petrol,55000.0
+Hyundai,900000.0,Manual-2WD,2012.0,14,814,Petrol,40000.0
+Hyundai,2700000.0,Auto-2WD,2017.0,,1200,Petrol,
+Tata,3800000.0,Manual-4WD,2019.0,40,5883,Diesel,50000.0
+Maruti Suzuki,450000.0,Manual-2WD,2002.0,17/18,993,Petrol,27000.0
+Maruti Suzuki,3200000.0,Manual-2WD,2018.0,14,1400,Diesel,43000.0
+Maruti Suzuki,2300000.0,Manual-2WD,2016.0,15.3 (As shown on the average counter display),1248,Petrol,30000.0
+Hyundai,3600000.0,Manual-2WD,2021.0,20,1200,Petrol,16000.0
+Maruti Suzuki,211000.0,Auto-4WD,2015.0,,,Petrol,
+Renault,3400000.0,Auto-4WD,2017.0,12Km/Pl,1500,Diesel,45000.0
+Tata,415000.0,Auto-4WD,,17,624,Petrol,32564.0
+Ford,11000000.0,Auto-4WD,2016.0,12,3200,Diesel,62000.0
+Maruti Suzuki,2650000.0,Manual-2WD,2020.0,19-20,1200,Petrol,11000.0
+Hyundai,1700000.0,Manual-2WD,2014.0,,1200,Petrol,39000.0
+Datsun,1325000.0,Manual-2WD,2016.0,12Km/Pl,1200,Petrol,39000.0
+Maruti Suzuki,3200000.0,Power-Steering,2018.0,14,1200,Diesel,66000.0
+Hyundai,3450000.0,Manual-2WD,2016.0,12,1600,Petrol,41000.0
+Hyundai,3200000.0,Manual-2WD,2019.0,15,1400,Petrol,39000.0
+Tata,3600000.0,Auto-2WD,2021.0,,1200,Petrol,36000.0
+Maruti Suzuki,2400000.0,Manual-2WD,2017.0,,,Petrol,
+Mitsubishi,2050000.0,Manual-4WD,2007.0,8,2500,Diesel,79000.0
+Hyundai,2100000.0,Manual-4WD,2009.0,12-Aug,1191cc,Diesel,65000.0
+Kia,2515000.0,Manual-4WD,2009.0,10,2000,Diesel,71000.0
+Mahindra,2250000.0,Auto-2WD,2016.0,14-15,1198cc,Petrol,35000.0
+Ford,1000000.0,Manual-2WD,2011.0,,1200,Petrol,80000.0
+Hyundai,3650000.0,Manual-4WD,2011.0,12-Oct,1995cc,Diesel,87000.0
+Toyota,23500000.0,Auto-4WD,2017.0,,4461,Diesel,85000.0
+Ford,8800000.0,Auto-4WD,2020.0,,3200,Diesel,17000.0
+Volkswagen,8700000.0,Auto-4WD,2017.0,,1984,Petrol,50000.0
+Toyota,3490000.0,Auto-4WD,2010.0,,2400,Petrol,84000.0
+Toyota,6500000.0,Manual-4WD,2013.0,,2500,Petrol,
+Mahindra,750000.0,Manual-2WD,2015.0,,2600,Diesel,9.0
+Maruti Suzuki,2150000.0,Manual-4WD,2015.0,,1197,Petrol,40014.0
+Hyundai,1599999.0,Manual-2WD,2011.0,13,1200,Petrol,52000.0
+Renault,2500000.0,Power-Steering,2021.0,15,1000,Petrol,18000.0
+Hyundai,1500000.0,Manual-2WD,2010.0,14-Dec,1200cc,Petrol,58000.0
+Other Brands,2975000.0,Manual-2WD,2018.0,13,2500,Diesel,30000.0
+Ford,1225000.0,Manual-2WD,2013.0,13,1200,Petrol,4000.0
+Toyota,3300000.0,Auto-4WD,2015.0,,2494,Petrol,12000.0
+Toyota,3600000.0,Manual-4WD,2010.0,,2755,Diesel,
+Maruti Suzuki,1700000.0,Manual-2WD,2012.0,13,1200,Petrol,63000.0
+Other Brands,1500000.0,Power-Steering,2022.0,120,15,Electric,3000.0
+Tata,500000.0,Manual-4WD,2016.0,5,10000,Diesel,60000.0
+Kia,1875000.0,Manual-4WD,2007.0,13,2000,Diesel,68000.0
+Hyundai,8000000.0,Auto-4WD,2012.0,,2199,Diesel,
+Tata,550000.0,Power-Steering,2007.0,,,Petrol,77000.0
+Maruti Suzuki,2150000.0,Power-Steering,2016.0,,,Petrol,57186.0
+Tata,1500000.0,Manual-2WD,2016.0,,2800,Diesel,
+Hyundai,1750000.0,Auto-4WD,2006.0,12,1992,Diesel,160000.0
+Hyundai,1400000.0,Manual-2WD,2011.0,,1086,Petrol,97000.0
+Chevrolet,835000.0,Manual-2WD,2010.0,11,1400,Petrol,70100.0
+Hyundai,2250000.0,Manual-2WD,2018.0,,1200,Petrol,27000.0
+Skoda,1250000.0,Manual-2WD,2012.0,,1200,Petrol,68000.0
+Volkswagen,2100000.0,Manual-2WD,2015.0,,1600,Petrol,49000.0
+Tata,1250000.0,Power-Steering,2014.0,,2956,Diesel,
+Mahindra,2400000.0,Manual-4WD,2016.0,,2200,Diesel,
+Toyota,2695000.0,Manual-4WD,2007.0,10,2500,Diesel,80000.0
+Toyota,2695000.0,Manual-4WD,2007.0,10,2500,Diesel,80000.0
+Daihatsu,930000.0,Manual-2WD,2007.0,15,1300,Petrol,78000.0
+Tata,3700000.0,Auto-4WD,2021.0,20,1200,Petrol,5000.0
+Tata,4500000.0,Auto-2WD,2023.0,,,Electric,0.0
+Tata,1400000.0,Auto-2WD,2015.0,,,Diesel,80000.0
+Maruti Suzuki,1690000.0,Manual-2WD,2017.0,17,999,Petrol,31000.0
+Hyundai,5550000.0,Auto-2WD,2021.0,,,Electric,10000.0
+Kia,990000.0,Manual-4WD,2001.0,13,2200,Diesel,143000.0
+Hyundai,1735000.0,Manual-2WD,2013.0,14,1197,Petrol,44000.0
+Volkswagen,2450000.0,Auto-2WD,2013.0,,1200,Petrol,35000.0
+Other Brands,1700000.0,Manual-2WD,2018.0,12,1200,Petrol,41000.0
+Toyota,3800000.0,Auto-4WD,2008.0,,2362,Petrol,91000.0
+Renault,2350000.0,Auto-2WD,2021.0,16,999,Petrol,14000.0
+Hyundai,2225000.0,Manual-2WD,2016.0,15,1197cc,Petrol,33000.0
+Hyundai,1100000.0,Power-Steering,2008.0,,1000,Petrol,88000.0
+Toyota,1750000.0,Manual-2WD,,,,Petrol,
+Mitsubishi,12800000.0,Auto-4WD,2016.0,,3200,Diesel,
+Maruti Suzuki,7599000.0,Manual-4WD,2023.0,29.87,1490,Hybrid,315.0
+Hyundai,3585000.0,Manual-4WD,2015.0,,1591,Petrol,57000.0
+Toyota,7800000.0,Manual-4WD,2018.0,,2755,Diesel,40000.0
+Toyota,7800000.0,Manual-4WD,2018.0,,2755,Diesel,40000.0
+Tata,1000000.0,Manual-2WD,2010.0,8,1900,Diesel,82000.0
+Toyota,7800000.0,Manual-4WD,2018.0,,2755,Diesel,40000.0
+Hyundai,3590000.0,Auto-2WD,2015.0,,1591,Petrol,57000.0
+Hyundai,3585000.0,Manual-2WD,2015.0,,1591,Petrol,57000.0
+Hyundai,1350000.0,Manual-2WD,,,814,Petrol,33000.0
+Renault,2785000.0,Auto-2WD,2021.0,,999,Petrol,7000.0
+Kia,3200000.0,Manual-2WD,2021.0,,1200,Petrol,11000.0
+Hyundai,3650000.0,Manual-2WD,2016.0,12,1600,Petrol,39243.0
+Hyundai,5456000.0,Manual-2WD,2023.0,,,Petrol,
+Chevrolet,1700000.0,Auto-4WD,2013.0,,,Diesel,
+Hyundai,1875000.0,Manual-4WD,2014.0,,1197,Petrol,42000.0
+Volkswagen,2450000.0,Manual-2WD,2016.0,,1600,Petrol,49000.0
+Tata,3650000.0,Manual-2WD,2021.0,,1200,Petrol,17000.0
+Hyundai,925000.0,Manual-2WD,2008.0,,1400,Petrol,67000.0
+Nissan,1100000.0,Power-Steering,2005.0,,1600,Petrol,100500.0
+Tata,1650000.0,Auto-2WD,2014.0,14,2956,Diesel,125000.0
+Other Brands,3050000.0,Manual-2WD,2018.0,,2499,Diesel,
+Toyota,950000.0,Power-Steering,2003.0,,1300,Petrol,140000.0
+Ford,1775000.0,Manual-2WD,2013.0,,1200,Diesel,54500.0
+Mahindra,1185000.0,Auto-2WD,2006.0,16,2523,Diesel,
+Maruti Suzuki,2500000.0,Manual-2WD,2016.0,16/17,,Diesel,
+Tata,1800000.0,Manual-2WD,2018.0,12,1900,Diesel,
+Maruti Suzuki,1390000.0,Manual-2WD,2006.0,14,1200,Petrol,55000.0
+Tata,1450000.0,Manual-2WD,2020.0,12,1396,Diesel,28000.0
+Toyota,1725000.0,Manual-2WD,2007.0,,1600,Petrol,47000.0
+Tata,2400000.0,Auto-2WD,2020.0,,,Petrol,
+Tata,1800000.0,Auto-2WD,2017.0,,,Diesel,79000.0
+Kia,820000.0,Manual-2WD,2006.0,17,1400,Petrol,65000.0
+Mahindra,750000.0,Auto-2WD,2013.0,,2523,Diesel,
+Hyundai,2650000.0,Manual-2WD,2015.0,,1200,Petrol,
+Toyota,3800000.0,Manual-2WD,2015.0,,2800,Diesel,
+Perodua,765000.0,Manual-2WD,2008.0,,850,Petrol,36000.0
+Maruti Suzuki,875000.0,Manual-4WD,1992.0,,1600 Cc,Petrol,100000.0
+Mahindra,1400000.0,Power-Steering,2018.0,,,Diesel,34000.0
+Hyundai,1250000.0,Manual-2WD,2010.0,16,1200,Petrol,48000.0
+Kia,5500000.0,Auto-4WD,2009.0,,,Diesel,55000.0
+Hyundai,3390000.0,Manual-2WD,2017.0,,1598,Petrol,41000.0
+Maruti Suzuki,550000.0,Manual-4WD,2016.0,,800,Petrol,
+Honda,10700000.0,Auto-4WD,2018.0,,1500,Petrol,8300.0
+Maruti Suzuki,550000.0,Manual-2WD,2006.0,15,800,Petrol,81155.0
+Maruti Suzuki,835000.0,Manual-2WD,2008.0,16,1087,Petrol,55000.0
+Daihatsu,1500000.0,Power-Steering,1999.0,10,1300,Petrol,
+Other Brands,995000.0,Manual-2WD,2010.0,14,1300,Petrol,48000.0
+Volkswagen,1650000.0,Manual-2WD,2011.0,13,1600,Petrol,47000.0
+Maruti Suzuki,1399999.0,Auto-2WD,2010.0,16,1200,Petrol,61000.0
+Skoda,3000000.0,Manual-2WD,2021.0,,1000,Petrol,21000.0
+Hyundai,1700000.0,Manual-2WD,2014.0,16.5,1049,Petrol,41848.0
+Maruti Suzuki,1099000.0,Manual-2WD,2010.0,14 km,1200,Petrol,750000.0
+Skoda,1625000.0,Manual-2WD,2013.0,22,,Diesel,73000.0
+Tata,1980000.0,Manual-2WD,2019.0,15,1200,Petrol,20000.0
+Kia,4850000.0,Manual-2WD,2018.0,13-Oct,2000,Petrol,52000.0
+Ford,1500000.0,Manual-2WD,2013.0,18,1500,Diesel,96000.0
+Mahindra,890000.0,Manual-2WD,2009.0,,2523 CC,Diesel,
+Ford,2150000.0,Manual-2WD,2015.0,,1500,Petrol,70000.0
+Tata,925000.0,Power-Steering,2017.0,10,,Diesel,40000.0
+Hyundai,1475000.0,Manual-2WD,2010.0,14,1200,Petrol,61000.0
+Hyundai,920000.0,Manual-2WD,2009.0,,1350,Petrol,72000.0
+Maruti Suzuki,1225000.0,Manual-2WD,2012.0,12,1200,Petrol,48000.0
+Maruti Suzuki,1399999.0,Manual-2WD,2008.0,13-Dec,1300,Petrol,66000.0
+Hyundai,2400000.0,Manual-2WD,2020.0,2025,1200,Petrol,26500.0
+Tata,1175000.0,Power-Steering,2013.0,,2956,Diesel,93000.0
+Maruti Suzuki,1190000.0,Manual-2WD,2009.0,,1200,Petrol,60000.0
+Skoda,1975000.0,Manual-2WD,2016.0,16-20 kmpl,1.4,Diesel,60000.0
+Toyota,6500000.0,Manual-2WD,2013.0,,2500,Petrol,55000.0
+Hyundai,650000.0,Manual-2WD,2003.0,,,Petrol,
+Toyota,1800000.0,Auto-2WD,2006.0,11,1300,Petrol,8500.0
+Ford,2495000.0,Auto-2WD,2018.0,,1200,Petrol,28800.0
+Other Brands,1050000.0,Manual-2WD,2011.0,12,1500,Petrol,76000.0
+Maruti Suzuki,1350000.0,Manual-2WD,2016.0,16,800,Petrol,56000.0
+Mahindra,4200000.0,Manual-4WD,2020.0,,,Diesel,
+Maruti Suzuki,3025000.0,Manual-2WD,2017.0,17,1250,Diesel,50000.0
+Maruti Suzuki,2000000.0,Manual-2WD,2014.0,14,1500,Petrol,
+Mahindra,3600000.0,Manual-4WD,2017.0,,,Diesel,
+Mahindra,1800000.0,Auto-2WD,2018.0,,2609 cc,Diesel,23000.0
+Ford,2350000.0,Power-Steering,2018.0,,1500,Petrol,35500.0
+Maruti Suzuki,1250000.0,Manual-2WD,2008.0,,1300,Petrol,66235.0
+Hyundai,2775000.0,Manual-2WD,2021.0,,1200,Petrol,12000.0
+Maruti Suzuki,3350000.0,Manual-2WD,2018.0,18,1300,Diesel,32000.0
+Hyundai,2225000.0,Manual-2WD,2017.0,,1200,Petrol,33256.0
+Maruti Suzuki,2075000.0,Manual-2WD,2014.0,,1200,Petrol,42136.0
+Maruti Suzuki,2550000.0,Manual-2WD,2017.0,,1200,Petrol,39523.0
+Maruti Suzuki,1850000.0,Manual-2WD,2020.0,,1200,Petrol,23000.0
+Hyundai,2350000.0,Manual-2WD,2018.0,,1200,Petrol,17000.0
+Maruti Suzuki,2190000.0,Manual-2WD,2019.0,18,1200,Petrol,17300.0
+Maruti Suzuki,1399000.0,Power-Steering,2018.0,,800,Petrol,42000.0
+Toyota,1625000.0,Manual-4WD,2002.0,10-Aug,3000,Diesel,150000.0
+Maruti Suzuki,1405000.0,Manual-2WD,2013.0,21,998,Petrol,46160.0
+Hyundai,1950000.0,Manual-2WD,2012.0,12 to 14,1600,Petrol,71000.0
+Maruti Suzuki,2500000.0,Manual-2WD,2015.0,17-19km/l,1400,Petrol,45000.0
+Tata,3250000.0,Manual-2WD,2020.0,,,Petrol,35000.0
+Toyota,1245000.0,Auto-4WD,1998.0,,1997,Petrol,
+Mahindra,750000.0,Manual-2WD,2009.0,,,Diesel,
+Tata,1850000.0,Manual-2WD,2016.0,,1200,Petrol,39000.0
+Perodua,770000.0,Auto-2WD,2009.0,12,1300,Petrol,75000.0
+Mahindra,1975000.0,Auto-2WD,2018.0,,,Electric,
+Nissan,1200000.0,Manual-4WD,2005.0,,,Diesel,
+Daihatsu,4450000.0,Manual-4WD,2015.0,,1500,Petrol,43000.0
+Maruti Suzuki,1550000.0,Manual-2WD,2014.0,20,1000,Petrol,48.0
+Tata,1300000.0,Auto-2WD,2018.0,,,Diesel,46000.0
+Maruti Suzuki,2375000.0,Manual-2WD,2016.0,,1200,Petrol,38000.0
+Hyundai,2375000.0,Manual-2WD,2016.0,14,1200,Petrol,52000.0
+Toyota,1750000.0,Manual-2WD,2007.0,,1600,Petrol,47000.0
+Maruti Suzuki,505000.0,Manual-2WD,2015.0,15km/ltr,800,Petrol,52500.0
+Maruti Suzuki,1800000.0,Auto-2WD,2014.0,,1000,Petrol,47000.0
+Ford,1650000.0,Manual-2WD,2017.0,,1200,Petrol,43000.0
+Toyota,2150000.0,Manual-2WD,2013.0,,1300,Petrol,53000.0
+Mahindra,1950000.0,Manual-4WD,2017.0,,2523,Diesel,38000.0
+Hyundai,1550000.0,Manual-2WD,2010.0,12,1200,Petrol,73747.0
+Maruti Suzuki,1450000.0,Manual-2WD,2016.0,,1200,Petrol,54590.0
+Hyundai,1950000.0,Manual-2WD,2014.0,15,,Petrol,63000.0
+Hyundai,1150000.0,Power-Steering,2009.0,,1086,Petrol,60000.0
+Ford,999999.0,Manual-2WD,2011.0,13,1199,Petrol,53000.0
+Maruti Suzuki,4100000.0,Manual-2WD,2021.0,,1500,Petrol,24500.0
+Mahindra,2399999.0,Manual-4WD,2020.0,14,0,Diesel,49000.0
+Honda,1575000.0,Manual-2WD,2007.0,10,1600cc,Petrol,60000.0
+Hyundai,1000000.0,Manual-2WD,2012.0,17,814Cc,Petrol,47000.0
+Maruti Suzuki,1450000.0,Manual-2WD,2010.0,,,Petrol,
+Daihatsu,2550000.0,Manual-4WD,2007.0,,1500,Petrol,53000.0
+Mahindra,450000.0,Power-Steering,2013.0,15,901,Diesel,16057.0
+Toyota,5000000.0,Manual-4WD,2008.0,,2362,Diesel,
+Datsun,1325000.0,Power-Steering,2015.0,,,Petrol,
+Hyundai,2000000.0,Manual-2WD,2014.0,25,,Petrol,62000.0
+Maruti Suzuki,1525000.0,Manual-2WD,2018.0,,1200,Petrol,63000.0
+Chevrolet,680000.0,Power-Steering,2008.0,10,1200,Petrol,72000.0
+Hyundai,4450000.0,Manual-2WD,2019.0,12,1598,Petrol,37000.0
+Maruti Suzuki,600000.0,Manual-2WD,2006.0,18,800,Petrol,
+Kia,9000000.0,Auto-2WD,2021.0,10-Sep,2000,Petrol,30000.0
+Hyundai,1170000.0,Manual-2WD,2009.0,,1100,Petrol,
+Tata,900000.0,Manual-2WD,2015.0,,,Petrol,63.0
+Tata,1400000.0,Manual-2WD,2010.0,12,2200,Petrol,57200.0
+Tata,250000.0,Manual-2WD,,,,Diesel,
+Hyundai,1150000.0,Manual-2WD,2008.0,20,1200,Petrol,11111.0
+Maruti Suzuki,630000.0,Auto-2WD,2000.0,18 Km per liter,800,Petrol,4950.0
+Toyota,5775000.0,Manual-2WD,2010.0,10,3000,Petrol,105000.0
+Tata,390000.0,Manual-2WD,2012.0,23,624,Petrol,35000.0
+Other Brands,875000.0,Manual-2WD,2009.0,14,1300,Petrol,52000.0
+Mahindra,3675000.0,Manual-4WD,2017.0,,2200,Diesel,65000.0
+Kia,1600000.0,Auto-2WD,2009.0,10,1900,Petrol,76000.0
+Other Brands,1025000.0,Manual-2WD,2010.0,13,1300,Petrol,55000.0
+Other Brands,3550000.0,Manual-2WD,2021.0,,2500,Diesel,
+Mahindra,1000000.0,Manual-2WD,,,909,Diesel,38000.0
+Tata,1850000.0,Manual-2WD,2015.0,8,4000,Diesel,105000.0
+Maruti Suzuki,2200000.0,Manual-2WD,2015.0,17,1387,Petrol,44500.0
+Hyundai,5500000.0,Manual-2WD,2018.0,15 above,1600,Petrol,30000.0
+Other Brands,4800000.0,Manual-2WD,2021.0,,,Petrol,7700.0
+Ford,2500000.0,Manual-2WD,2016.0,,1500,Petrol,45000.0
+Maruti Suzuki,715000.0,Manual-4WD,2009.0,,800,Petrol,80000.0
+Honda,2320000.0,Manual-2WD,2015.0,,1490,Petrol,30100.0
+Chevrolet,900000.0,Auto-2WD,2009.0,14-15,1000,Petrol,85000.0
+Hyundai,975000.0,Auto-2WD,2005.0,,1100,Petrol,82000.0
+Toyota,9700000.0,Manual-4WD,2015.0,12,3000,Diesel,45000.0
+Hyundai,875000.0,Manual-2WD,2004.0,,1068,Petrol,
+Hyundai,1450000.0,Auto-2WD,2009.0,15,1200,Petrol,80000.0
+Hyundai,5700000.0,Manual-2WD,2021.0,12,1500,Petrol,14000.0
+Ford,1075000.0,Manual-2WD,2011.0,,1200,Petrol,60000.0
+Maruti Suzuki,775000.0,Manual-2WD,2010.0,,,Petrol,
+Volkswagen,2450000.0,Manual-2WD,2018.0,,998,Petrol,27969.0
+Maruti Suzuki,1250000.0,Manual-2WD,2009.0,,,Petrol,
+Kia,540000.0,Auto-2WD,2004.0,14,1400,Petrol,60000.0
+Maruti Suzuki,2025000.0,Manual-2WD,2014.0,,1197,Petrol,47582.0
+Mahindra,1150000.0,Manual-4WD,2016.0,,2500,Petrol,46230.0
+Maruti Suzuki,600000.0,Manual-2WD,2004.0,,800,Petrol,63586.0
+Hyundai,1725000.0,Manual-2WD,2014.0,,1086,Petrol,52490.0
+Hyundai,590000.0,Manual-2WD,2002.0,,1061,Petrol,62570.0
+Hyundai,3062500.0,Manual-2WD,2019.0,12,1200,Petrol,40000.0
+Maruti Suzuki,1897000.0,Manual-2WD,2014.0,15,1197,Petrol,74000.0
+Hyundai,5100000.0,Manual-2WD,2019.0,,1600,Petrol,20000.0
+Renault,2475000.0,Manual-2WD,2016.0,17,1500,Diesel,75000.0
+Maruti Suzuki,1700000.0,Auto-2WD,2014.0,14,1200,Petrol,65300.0
+Hyundai,1700000.0,Manual-2WD,2013.0,13,1200,Petrol,50000.0
+Tata,350000.0,Manual-4WD,2011.0,27km/ltr,624,Petrol,71000.0
+Maruti Suzuki,8950000.0,Auto-4WD,2021.0,27.97,1586,Hybrid,1000.0
+Maruti Suzuki,1800000.0,Auto-2WD,2014.0,15,998,Petrol,47000.0
+Tata,1200000.0,Power-Steering,2009.0,,,Diesel,
+Tata,1200000.0,Power-Steering,2009.0,,,Diesel,
+Maruti Suzuki,2725000.0,Manual-2WD,2019.0,,,Petrol,
+Maruti Suzuki,1850000.0,Manual-2WD,2018.0,17,1000,Petrol,65000.0
+Hyundai,1750000.0,Manual-2WD,2013.0,13,1500,Petrol,45.0
+Mahindra,1200000.0,Manual-2WD,2017.0,,2523,Diesel,100000.0
+Maruti Suzuki,1575000.0,Manual-2WD,2018.0,,800,Petrol,46333.0
+Other Brands,350000.0,Auto-2WD,2004.0,10,1600,Petrol,90819.0
+Hyundai,3075000.0,Manual-2WD,2018.0,15,1197,Petrol,32000.0
+Hyundai,11500000.0,Manual-2WD,2007.0,,1100,Petrol,73000.0
+Volkswagen,2150000.0,Manual-2WD,2014.0,,1600,Petrol,42000.0
+Honda,18500000.0,Manual-2WD,2015.0,,1200,Petrol,45000.0
+Hyundai,775000.0,Manual-2WD,2003.0,15,1500,Petrol,102500.0
+Skoda,1650000.0,Manual-2WD,,,,Diesel,
+Hyundai,4000000.0,Manual-2WD,2019.0,,1600,Petrol,20000.0
+Toyota,1575000.0,Manual-2WD,2007.0,,1497,Petrol,65000.0
+Hyundai,1999999.0,Auto-4WD,2009.0,12,1990,Diesel,70000.0
+Maruti Suzuki,870000.0,Manual-2WD,2009.0,16,800,Petrol,57000.0
+Maruti Suzuki,2462500.0,Manual-2WD,2018.0,12,1200,Petrol,44000.0
+Hyundai,3750000.0,Auto-4WD,2017.0,20-22,1.6 petrol,Petrol,65000.0
+Maruti Suzuki,1585000.0,Manual-2WD,2014.0,,,Petrol,26000.0
+Nissan,1450000.0,Manual-2WD,2015.0,,1200,Petrol,36000.0
+Maruti Suzuki,2400000.0,Manual-2WD,2017.0,16 in city,1197,Petrol,26000.0
+Hyundai,3075000.0,Manual-2WD,2018.0,14,1200,Petrol,37000.0
+Nissan,3750000.0,Manual-2WD,2018.0,,,Petrol,5000.0
+Hyundai,950000.0,Manual-2WD,2008.0,,1400,Petrol,81000.0
+Maruti Suzuki,1600000.0,Manual-2WD,2011.0,18,1200,Petrol,50000.0
+Hyundai,1435000.0,Manual-2WD,2010.0,18,1200,Petrol,55700.0
+Maruti Suzuki,3050000.0,Manual-2WD,2016.0,16-18,1250,Diesel,55000.0
+Hyundai,850000.0,Manual-2WD,2004.0,15,1200,Petrol,55.0
+Kia,3990000.0,Auto-2WD,2017.0,9 km/kwh,87 kw,Electric,42000.0
+Hyundai,950000.0,Manual-2WD,2005.0,15,1200,Petrol,45.0
+Hyundai,2950000.0,Manual-2WD,2021.0,17,1197,Petrol,19000.0
+Hyundai,2650000.0,Manual-2WD,2016.0,15,1..2,Petrol,38000.0
+Mahindra,600000.0,Manual-2WD,2008.0,,2600,Diesel,
+Chevrolet,1025000.0,Manual-2WD,2012.0,14,1200,Petrol,43000.0
+Tata,800000.0,Auto-2WD,2012.0,15,1399,Diesel,70000.0
+Hyundai,5600000.0,Manual-2WD,2021.0,,1500,Petrol,19000.0
+Nissan,4260000.0,Manual-2WD,2023.0,20kmpl,1000,Petrol,3000.0
+Ford,1275000.0,Manual-2WD,2013.0,,1196,Petrol,21000.0
+Maruti Suzuki,1000000.0,Manual-2WD,2014.0,23,796,Petrol,149000.0
+Tata,1600000.0,Manual-2WD,2018.0,,3000,Diesel,
+Kia,3050000.0,Manual-4WD,2011.0,14,1998,Petrol,58010.0
+Hyundai,1250000.0,Manual-2WD,2009.0,12,1098,Petrol,65000.0
+Hyundai,2075000.0,Auto-2WD,2009.0,,,Petrol,
+Ford,1850000.0,Manual-2WD,2017.0,,1500,Petrol,43000.0
+Tata,1900000.0,Power-Steering,2017.0,,,Diesel,100000.0
+Mahindra,1575000.0,Manual-2WD,2018.0,,2523,Diesel,29594.0
+Datsun,1350000.0,Manual-2WD,2018.0,17,1000,Petrol,42000.0
+Hyundai,2037500.0,Manual-2WD,2017.0,12,1200,Petrol,55000.0
+Maruti Suzuki,2362500.0,Manual-2WD,2021.0,14,1200,Petrol,13000.0
+Hyundai,3375000.0,Manual-2WD,2016.0,,1591,Petrol,42097.0
+Mahindra,3500000.0,Auto-4WD,2019.0,,,Diesel,50000.0
+Perodua,875000.0,Manual-2WD,2008.0,18,1000,Petrol,70000.0
+Maruti Suzuki,1950000.0,Power-Steering,2017.0,18,998,Petrol,41461.0
+Kia,1000000.0,Auto-2WD,2001.0,8,2000,Diesel,80000.0
+Kia,400000.0,Auto-2WD,2001.0,8,2000,Diesel,80000.0
+Maruti Suzuki,2700000.0,Manual-2WD,2017.0,16-18,1200,Petrol,51000.0
+Maruti Suzuki,2612500.0,Manual-2WD,2018.0,12,1200,Petrol,35000.0
+Nissan,6000000.0,Manual-4WD,2019.0,,2500,Diesel,
+Maruti Suzuki,2250000.0,Manual-2WD,2017.0,,1200,Petrol,32000.0
+Toyota,1780000.0,Auto-2WD,,,1497,Petrol,80700.0
+Maruti Suzuki,1990000.0,Auto-2WD,2013.0,,1197,Petrol,71500.0
+Kia,3790000.0,Manual-4WD,2023.0,,1200,Petrol,
+Maruti Suzuki,2700000.0,Manual-2WD,2019.0,,1197,Petrol,27000.0
+Hyundai,1075000.0,Auto-2WD,2007.0,14,1086,Petrol,57000.0
+Tata,550000.0,Manual-2WD,2013.0,,1400,Diesel,
+Honda,1300000.0,Manual-2WD,2008.0,10,1599,Petrol,1350000.0
+Renault,1550000.0,Auto-2WD,2017.0,15000,999,Petrol,15000.0
+Hyundai,1640000.0,Auto-2WD,2010.0,14,1200,Petrol,65000.0
+Jeep,8900000.0,Manual-4WD,2020.0,,1956,Diesel,35000.0
+Renault,1499999.0,Manual-2WD,2017.0,15,1000,Petrol,32000.0
+Mahindra,1450000.0,Manual-2WD,2012.0,14,900,Diesel,81000.0
+Mahindra,4200000.0,Manual-4WD,2018.0,+12km,2179,Diesel,58000.0
+Other Brands,625000.0,Manual-4WD,2005.0,,1468,Petrol,6278.0
+Ford,2200000.0,Manual-2WD,2013.0,,1498,Diesel,0.0
+Mahindra,2200000.0,Manual-2WD,2012.0,Good,2179,Diesel,180000.0
+Nissan,2750000.0,Manual-2WD,2022.0,,999,Petrol,10000.0
+Tata,1099999.0,Auto-2WD,2021.0,23,1200,Diesel,8000.0
+Toyota,2300000.0,Auto-4WD,2020.0,,,Hybrid,
+Maruti Suzuki,1500000.0,Auto-2WD,2010.0,,800,Petrol,
+Toyota,150000.0,Manual-2WD,1993.0,16,1900,Diesel,100000.0
+Toyota,850000.0,Manual-2WD,2012.0,16,15cc,Diesel,60000.0
+Maruti Suzuki,240000.0,Manual-2WD,1999.0,,,Petrol,
+Hyundai,1400000.0,Manual-2WD,2016.0,19,800,Petrol,42000.0
+Maruti Suzuki,4075000.0,Manual-2WD,2021.0,16,1500,Petrol,12000.0
+Tata,650000.0,Auto-2WD,2017.0,20,800,Diesel,70000.0
+Hyundai,2575000.0,Manual-2WD,2018.0,,1200cc,Petrol,32000.0
+Hyundai,1850000.0,Manual-2WD,2014.0,,1200cc,Petrol,48000.0
+Maruti Suzuki,740000.0,Auto-2WD,2018.0,,800,Petrol,17000.0
+Hyundai,3725000.0,Manual-4WD,2011.0,12,2000,Diesel,36091.0
+Other Brands,600000.0,Manual-2WD,2008.0,12km,4,Petrol,
+Mahindra,5300000.0,Manual-4WD,2022.0,,,Petrol,7500.0
+Toyota,3900000.0,Manual-2WD,2015.0,12 km/he,2800,Diesel,
+Mahindra,1450000.0,Manual-4WD,2017.0,,2500,Diesel,42000.0
+Maruti Suzuki,1200000.0,Auto-2WD,2021.0,16-18,1200,Petrol,16800.0
+Mahindra,1675000.0,Auto-4WD,2019.0,,2500,Diesel,56000.0
+Hyundai,1465000.0,Manual-2WD,2010.0,20,1200,Petrol,60000.0
+Honda,799999.0,Manual-2WD,2004.0,,1498,Petrol,108000.0
+Hyundai,2450000.0,Manual-2WD,2020.0,2025,1200,Petrol,26500.0
+Hyundai,1925000.0,Manual-2WD,2015.0,15,1200,Petrol,60000.0
+Renault,1950000.0,Manual-2WD,2014.0,12 to 14,1200,Petrol,60000.0
+Hyundai,1750000.0,Manual-2WD,2014.0,,1200,Petrol,93000.0
+Nissan,2450000.0,Auto-4WD,2007.0,13,2200,Diesel,60000.0
